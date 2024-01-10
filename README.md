@@ -1,2 +1,2 @@
 # Application
-Applications develop through C#
+Applications develop through C# .Net Framework
